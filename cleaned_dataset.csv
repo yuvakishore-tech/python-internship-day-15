@@ -1,0 +1,21 @@
+Employee_ID,Name,Age,Gender,Department,Experience_Years,Salary,Performance_Rating,City,Annual_Bonus,Experience_Level
+101,Arjun Mehta,25,Male,IT,2,45000.0,4.0,Mumbai,4500.0,Junior
+102,Priya Sharma,30,Female,HR,5,60000.0,5.0,Delhi,6000.0,Mid-Level
+103,Rahul Verma,28,Male,Finance,4,52000.0,3.0,Bangalore,5200.0,Junior
+104,Sneha Iyer,35,Female,IT,8,80000.0,5.0,Chennai,8000.0,Mid-Level
+105,Amit Patel,26,Male,Marketing,3,48000.0,4.0,Ahmedabad,4800.0,Junior
+106,Neha Kapoor,32,Female,Finance,6,69722.22222222222,4.0,Delhi,6972.222222222223,Mid-Level
+107,Varun Singh,29,Male,IT,4,58000.0,4.055555555555555,Mumbai,5800.0,Junior
+108,Kavya Nair,27,Female,HR,3,50000.0,3.0,Chennai,5000.0,Junior
+109,Rohan Das,40,Male,Management,15,120000.0,5.0,Bangalore,12000.0,Senior
+110,Anjali Rao,31,Female,Marketing,6,65000.0,4.0,Hyderabad,6500.0,Mid-Level
+111,Karan Malhotra,24,Male,IT,1,40000.0,3.0,Delhi,4000.0,Junior
+112,Pooja Desai,29,Female,Finance,5,55000.0,4.0,Ahmedabad,5500.0,Mid-Level
+113,Manish Gupta,38,Male,Management,12,110000.0,5.0,Mumbai,11000.0,Senior
+114,Divya Reddy,33,Female,HR,7,72000.0,4.055555555555555,Hyderabad,7200.0,Mid-Level
+115,Sachin Yadav,27,Male,Marketing,4,51000.0,3.0,Delhi,5100.0,Junior
+116,Aisha Khan,30,Female,IT,5,62000.0,4.0,Bangalore,6200.0,Mid-Level
+117,Vikram Joshi,45,Male,Management,20,150000.0,5.0,Chennai,15000.0,Senior
+118,Ritika Sen,26,Female,Finance,3,47000.0,3.0,Kolkata,4700.0,Junior
+119,Aditya Roy,34,Male,IT,9,90000.0,5.0,Mumbai,9000.0,Mid-Level
+120,Meera Pillai,28,Female,HR,4,69722.22222222222,4.0,Chennai,6972.222222222223,Junior

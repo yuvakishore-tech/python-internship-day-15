@@ -1,0 +1,22 @@
+Employee_ID,Name,Age,Gender,Department,Experience_Years,Salary,Performance_Rating,City
+101,Arjun Mehta,25,Male,IT,2,45000,4,Mumbai
+102,Priya Sharma,30,Female,HR,5,60000,5,Delhi
+103,Rahul Verma,28,Male,Finance,4,52000,3,Bangalore
+104,Sneha Iyer,35,Female,IT,8,80000,5,Chennai
+105,Amit Patel,26,Male,Marketing,3,48000,4,Ahmedabad
+106,Neha Kapoor,32,Female,Finance,6,,4,Delhi
+107,Varun Singh,29,Male,IT,4,58000,,Mumbai
+108,Kavya Nair,27,Female,HR,3,50000,3,Chennai
+109,Rohan Das,40,Male,Management,15,120000,5,Bangalore
+110,Anjali Rao,31,Female,Marketing,6,65000,4,Hyderabad
+111,Karan Malhotra,24,Male,IT,1,40000,3,Delhi
+112,Pooja Desai,29,Female,Finance,5,55000,4,Ahmedabad
+113,Manish Gupta,38,Male,Management,12,110000,5,Mumbai
+114,Divya Reddy,33,Female,HR,7,72000,,Hyderabad
+115,Sachin Yadav,27,Male,Marketing,4,51000,3,Delhi
+116,Aisha Khan,30,Female,IT,5,62000,4,Bangalore
+117,Vikram Joshi,45,Male,Management,20,150000,5,Chennai
+118,Ritika Sen,26,Female,Finance,3,47000,3,Kolkata
+119,Aditya Roy,34,Male,IT,9,90000,5,Mumbai
+120,Meera Pillai,28,Female,HR,4,,4,Chennai
+
